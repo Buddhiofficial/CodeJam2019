@@ -1,7 +1,7 @@
 InputBase=input()
 TimesRAN=0
 Turn=1
-while int(TimesRAN) < int(InputBase) :
+while int(TimesrAN) < int(InputBase) :
     Input=input()
     InputS=str(Input)
     MA=[]
