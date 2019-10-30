@@ -1,7 +1,7 @@
 InputBase=input()
 TimesRAN=0
 Turn=1
-while int(TimesRAN) < int(InputBase) :
+while int(TimesrAN) < int(InputBase) :
     Input=input()
     InputS=str(Input)
     MA=[]
@@ -41,5 +41,5 @@ while int(TimesRAN) < int(InputBase) :
     #print(T1)
     #print(T2)
     print ("Case #"+str(Turn)+": "+str(T4)+" "+str(T2))
-    TimesRAN=TimesRAN+1
+    TimesrAN=TimesrAN+1
     Turn=Turn+1
